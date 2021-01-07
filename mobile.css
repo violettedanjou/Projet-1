@@ -1,0 +1,60 @@
+/* 					PARTIE 1 				*/
+
+#ul_1
+{
+	width: 65%;
+}
+/*			
+						
+
+
+
+
+						PARTIE 2 : NOS SERVICES					*/
+#services
+{
+	padding-top: 110px;
+}
+.main_feature 
+{
+	display: none;
+}
+/*
+
+
+
+
+						PARTIE 3 : NOS PROJETS 				*/
+figure
+{
+	width: 60%;
+}
+
+#projets
+{
+	padding-top: 110px;
+	margin-top: 0px;
+}
+/*
+
+
+
+						FORMULAIRE				*/
+iframe
+{
+	height: 300px;
+}
+#voile_transparent
+{
+	height: 303px;
+}
+#contact
+{
+	width: 60%;
+	margin-bottom: 50px;
+	left: 20%;
+}
+.bouton_bleu2
+{
+	width: 50%;
+}

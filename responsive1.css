@@ -1,0 +1,145 @@
+body
+{
+	font-family: 'Roboto', sans-serif;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	text-align: center;
+}
+
+/*				PARTIE 1 			*/
+#banniere_description
+{
+	top: 15%;
+	width: 48%;
+	left: 8%;
+}
+.chevron
+{
+	top: 27%;
+}
+.fa-chevron-left /* fleche vers la gauche */
+{
+	width: 40px; 
+	height: 50px;
+	left: 0px;
+	padding-top: 30px;
+	padding-left: 0px;
+}
+.fa-chevron-right /* fleche vers la droite */
+{
+	width: 25px; 
+	height: 50px;
+	right: 0px;
+	padding-top: 30px;
+	padding-left: 15px;
+}
+/*
+
+
+
+						PARTIE 2 : NOS SERVICES					*/
+#section_services
+{
+	position: relative;
+}
+#section_0
+{
+	display: flex;
+	flex-direction: column;
+}
+.sous_titre1
+{
+	margin-bottom: 50px;
+}
+.main_feature
+{
+	position: relative;
+	top: 0px;
+	margin: 0px;
+}
+
+#paragraphes
+{
+	margin-left: 5px;
+}
+p
+{
+	margin-right: 5px;
+}
+h3
+{
+	margin: 0px;
+	padding: 0px;
+}
+/*
+
+
+
+
+						PARTIE 3 : NOS PROJETS 				*/
+figure
+{
+	width: 30%;
+}
+figcaption 
+{
+	top: -80px;
+}
+.eye
+{
+	right: 4px;
+	bottom: 26px;
+}
+.fa-eye
+{
+	right: 10px;
+	top: 11px;
+}
+.eyes
+{
+	width: 35px;
+	height: 35px;
+}
+figure:hover .fa-eye /*icone*/
+{
+	font-size: 0.7em;
+}
+.figcaption_legend
+{
+	bottom: +43px;
+}
+
+
+/* 						
+
+
+
+							FORMULAIRE					*/
+#contact
+{
+	position: relative;
+	border: 1px solid #e1e1e2;
+	background-color: #f5f5f5;
+	left: 30%;
+	right: 0px;
+	margin-top: 0px;
+	margin-bottom: 50px;
+	width: 40%;
+}
+iframe
+{
+	position: relative;
+	height: 450px;
+}
+#voile_transparent
+{
+	height: 450px;
+	width: 100%;
+}
+form
+{
+	padding-top: 20px;
+}
+

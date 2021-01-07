@@ -1,0 +1,33 @@
+/* PARTIE 1 */
+#banniere_description
+{
+	top: 18%;
+	left: 9%;
+	width: 45%;
+}
+.chevron
+{
+	top: 30%;
+}
+.fa-chevron-left /* fleche vers la gauche */
+{
+	width: 30px; 
+	height: 50px;
+	left: 0px;
+	padding-top: 30px;
+	padding-left: 10px;
+}
+.fa-chevron-right /* fleche vers la droite */
+{
+	width: 25px; 
+	height: 50px;
+	right: 0px;
+	padding-top: 30px;
+	padding-left: 15px;
+}
+
+/* FORMULAIRE */
+#contact
+{
+	width: 30%;
+}
